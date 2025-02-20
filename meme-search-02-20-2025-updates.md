@@ -25,14 +25,16 @@ with [customize hosts names and ports](https://github.com/neonwatty/meme-search/
 
 - bugfixes in the image-to-text service that makes cancelling failed jobs more reliable
 
-**Improved local 
+**Improved local builds and testing:**
 
 - new local build compose file for building and testing locally `docker-compose-pro-local-build.yml`
 - new test database added to image-to-text service for more comprehensive testing
 - new [local docker compose files added](https://github.com/neonwatty/meme-search/tree/main?tab=readme-ov-file#building-the-app-locally-with-docker) for easier local building and testing
 - gh action test and build scripts refactored for easier (local) testing
 
-See the [CHANGELOG.md](https://github.com/neonwatty/meme-search/blob/main/CHANGELOG.md) for additional updates and bugfixes
+
+
+See the [README.md](https://github.com/neonwatty/meme-search/blob/main/README.md) and [CHANGELOG.md](https://github.com/neonwatty/meme-search/blob/main/CHANGELOG.md) for additional updates and bugfixes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU4NDUwNDRdfQ==
+eyJoaXN0b3J5IjpbMTkyNjg5MDkxNl19
 -->
