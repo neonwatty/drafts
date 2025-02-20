@@ -17,6 +17,13 @@ with [customize hosts names and ports](https://github.com/neonwatty/meme-search/
 
 **Quality of life improvements:**
 - new model selection panel added in the Pro app Settings so you select or change your image-to-text model at will
+- 
+<p align="center">
+<img align="center" src="https://github.com/jermwatt/readme_gifs/blob/main/meme-search-grid-view-medium.webp" height="225">
+</p>
+
+
+
 - new `grid view` in both home and search pages for a broader view of your memes (see animation below)
 
 <p align="center">
@@ -36,5 +43,5 @@ with [customize hosts names and ports](https://github.com/neonwatty/meme-search/
 
 See the [README.md](https://github.com/neonwatty/meme-search/blob/main/README.md) and [CHANGELOG.md](https://github.com/neonwatty/meme-search/blob/main/CHANGELOG.md) for additional updates and bugfixes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjg5MDkxNl19
+eyJoaXN0b3J5IjpbMzg4OTU4NDE3LDE5MjY4OTA5MTZdfQ==
 -->
