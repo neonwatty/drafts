@@ -16,8 +16,8 @@ with [customize hosts names and ports](https://github.com/neonwatty/meme-search/
 - - moondream2 update to current revision
 
 **Quality of life improvements:**
-- new model selection panel added in the Pro app Settings so you select or change your image-to-text model at will
-- 
+- new model selection panel added in the Pro app Settings so you select or change your image-to-text model at will (
+
 <p align="center">
 <img align="center" src="https://github.com/jermwatt/readme_gifs/blob/main/meme-search-model-selection-screen-demo.webp" height="225">
 </p>
@@ -42,5 +42,5 @@ with [customize hosts names and ports](https://github.com/neonwatty/meme-search/
 
 See the [README.md](https://github.com/neonwatty/meme-search/blob/main/README.md) and [CHANGELOG.md](https://github.com/neonwatty/meme-search/blob/main/CHANGELOG.md) for additional updates and bugfixes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODQwMDAyNiwxOTI2ODkwOTE2XX0=
+eyJoaXN0b3J5IjpbLTE3MzQyNjM1MzcsMTkyNjg5MDkxNl19
 -->
