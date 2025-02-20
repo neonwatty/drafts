@@ -41,9 +41,8 @@ with newly enabled [customize hosts names and ports](https://github.com/neonwatt
 - gh action test and build scripts refactored for easier (local) testing
 
 
-
-See the [README.md](https://github.com/neonwatty/meme-search/blob/main/README.md) and [CHANGELOG.md](https://github.com/neonwatty/meme-search/blob/main/CHANGELOG.md) for additional updates and bugfixes.
+See the [README.md](https://github.com/neonwatty/meme-search/blob/main/README.md) and [CHANGELOG.md](https://github.com/neonwatty/meme-search/blob/main/CHANGELOG.md) for further details on updates and bugfixes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDAxMzgwNDgsMTYxMzYzNTEyMCwxOT
-I2ODkwOTE2XX0=
+eyJoaXN0b3J5IjpbLTg3NzEwOTA1NiwxNjEzNjM1MTIwLDE5Mj
+Y4OTA5MTZdfQ==
 -->
