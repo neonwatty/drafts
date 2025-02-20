@@ -8,7 +8,7 @@ updated 02-20-2025
 Major updates and quality of life improvements made to the Pro version of the app including:
 
 **Quality of life updates:**
-- 10x reduction in Docker image size for app / image-to-text service
+- 10x reduction in Docker image size for app / image-to-text services
 - Easier custom setup of the Pro App for local NAS, Portainer, Unraid, etc., 
 with newly enabled [customize hosts names and ports](https://github.com/neonwatty/meme-search/tree/main?tab=readme-ov-file#custom-hosts-and-ports) 
 - new smaller (200M - 10x smaller than previous) cutting edge default image to text model for faster local processing on most machines
@@ -42,6 +42,6 @@ with newly enabled [customize hosts names and ports](https://github.com/neonwatt
 
 See the [README.md](https://github.com/neonwatty/meme-search/blob/main/README.md) and [CHANGELOG.md](https://github.com/neonwatty/meme-search/blob/main/CHANGELOG.md) for further details on updates and bugfixes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzkyNTkyMCwxNjEzNjM1MTIwLDE5Mj
-Y4OTA5MTZdfQ==
+eyJoaXN0b3J5IjpbLTE3OTQ4NzAxNDEsMTYxMzYzNTEyMCwxOT
+I2ODkwOTE2XX0=
 -->
