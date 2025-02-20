@@ -22,6 +22,8 @@ Quality of life updates to the Pro version of Meme Search, including:
 - new test database added to image-to-text service for more comprehensive testing
 - new [local docker compose files added](https://github.com/neonwatty/meme-search/tree/main?tab=readme-ov-file#building-the-app-locally-with-docker) for easier local building and testing
 - gh action test and build scripts refactored for easier (local) testing
+
+See the [CHANGELOG.md](https://github.com/neonwatty/meme-search/blob/main/CHANGELOG.md) for additional updates and bugfixes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjMxMzE0OTNdfQ==
+eyJoaXN0b3J5IjpbLTU3Mjg5MzgxNl19
 -->
