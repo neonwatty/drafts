@@ -1,7 +1,9 @@
 
 
 
-# Meme search updates 02-20-2025
+# Meme Search Version 1.1.5 release notes
+
+updated 02-20-2025
 
 Quality of life updates to the Pro version of Meme Search, including:
 
@@ -25,5 +27,5 @@ Quality of life updates to the Pro version of Meme Search, including:
 
 See the [CHANGELOG.md](https://github.com/neonwatty/meme-search/blob/main/CHANGELOG.md) for additional updates and bugfixes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Mjg5MzgxNl19
+eyJoaXN0b3J5IjpbLTE1MTE1MDM2MDRdfQ==
 -->
