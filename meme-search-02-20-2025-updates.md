@@ -7,11 +7,11 @@ updated 02-20-2025
 
 Major updates and quality of life improvements made to the Pro version of the app including:
 
-**New models:**
+**New image to text models:**
 - 10x reduction in Docker image size
 - Easier custom setup of the Pro App for local NAS, Portainer, Unraid, etc., 
 with [customize hosts names and ports](https://github.com/neonwatty/meme-search/tree/main?tab=readme-ov-file#custom-hosts-and-ports) 
-- 4 new cutting edge image to text new models added ranging in size from 200M to 2B parameters
+- 4 new cutting edge [image to text new models added ranging in size from 200M to 2B parameters
 - new smaller (200M) cutting edge default image to text model for faster local processing on most machines
 - - moondream2 update to current revision
 
@@ -42,5 +42,6 @@ with [customize hosts names and ports](https://github.com/neonwatty/meme-search/
 
 See the [README.md](https://github.com/neonwatty/meme-search/blob/main/README.md) and [CHANGELOG.md](https://github.com/neonwatty/meme-search/blob/main/CHANGELOG.md) for additional updates and bugfixes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzYzNTEyMCwxOTI2ODkwOTE2XX0=
+eyJoaXN0b3J5IjpbLTE2MDE5NjczOTAsMTYxMzYzNTEyMCwxOT
+I2ODkwOTE2XX0=
 -->
