@@ -12,6 +12,7 @@ Major updates and quality of life improvements made to the Pro version of the ap
 - Easier custom setup of the Pro App for local NAS, Portainer, Unraid, etc., 
 with newly enabled [customize hosts names and ports](https://github.com/neonwatty/meme-search/tree/main?tab=readme-ov-file#custom-hosts-and-ports) 
 - new smaller (200M - 10x smaller than previous) cutting edge default image to text model for faster local processing on most machines
+-  bugfixes in the image-to-text service that makes cancelling failed jobs more reliable
 
 
 **New image to text models:**
@@ -43,6 +44,6 @@ with newly enabled [customize hosts names and ports](https://github.com/neonwatt
 
 See the [README.md](https://github.com/neonwatty/meme-search/blob/main/README.md) and [CHANGELOG.md](https://github.com/neonwatty/meme-search/blob/main/CHANGELOG.md) for additional updates and bugfixes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDIzNjEyOCwxNjEzNjM1MTIwLDE5Mj
-Y4OTA5MTZdfQ==
+eyJoaXN0b3J5IjpbLTE0NDAxMzgwNDgsMTYxMzYzNTEyMCwxOT
+I2ODkwOTE2XX0=
 -->
