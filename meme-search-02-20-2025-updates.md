@@ -5,7 +5,11 @@
 
 updated 02-20-2025
 
-Quality of life updates to the Pro version of Meme Search, including:
+Major updates and quality of life improvements made to the Pro version of the app including:
+
+- 10x reduction in Docker image size
+- Easier setup with NAS, Portainer, Unraid, etc., 
+you can now [customize hosts names and ports](https://github.com/neonwatty/meme-search/tree/main?tab=readme-ov-file#custom-hosts-and-ports) for easier usage with NAS, Portainer, Unraid, or if you just need to customize! 
 
 - bugfixes in the image-to-text service that makes cancelling failed jobs more reliable
 - new custom ports / hosts options to more easily run the pro app with tools like Unraid and Portainer, or if you need to run its services on different ports / hosts
@@ -17,7 +21,7 @@ Quality of life updates to the Pro version of Meme Search, including:
 </p>
 
 
-- you can now [customize hosts names and ports](https://github.com/neonwatty/meme-search/tree/main?tab=readme-ov-file#custom-hosts-and-ports) for easier usage with NAS, Portainer, Unraid, or if you just need to customize! 
+- 
 - 4 new image to text new models added ranging in size from 200M to 2B parameters: florence-2-base (new default), florence-2-large, smolvlm-256, smolvlm-500
 - new model selection panel added in the pro app Settings so you select or change your image-to-text model
 - moondream2 to current revision
@@ -27,5 +31,5 @@ Quality of life updates to the Pro version of Meme Search, including:
 
 See the [CHANGELOG.md](https://github.com/neonwatty/meme-search/blob/main/CHANGELOG.md) for additional updates and bugfixes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5MzMyMTc0XX0=
+eyJoaXN0b3J5IjpbLTEzMDg3ODQ0NThdfQ==
 -->
