@@ -20,13 +20,13 @@ use with newly enabled [customize hosts names and ports](https://github.com/neon
 - moondream2 updated to version 2.0
 
 **UX improvements:**
-- new model selection panel added in the Pro app Settings so you select or change your image-to-text model at will (illustrated below)
+- new model selection panel added in Settings allowing for choice of image-to-text model at will (illustrated below)
 
 <p align="center">
 <img align="center" src="https://github.com/jermwatt/readme_gifs/blob/main/meme-search-model-selection-screen-demo.webp" height="225">
 </p>
 
-- new `grid view` both home and search pages for a broader view of your memes (illustrated below)
+- new `grid view` added to both home and search pages for a broader view of your memes (illustrated below)
 
 <p align="center">
 <img align="center" src="https://github.com/jermwatt/readme_gifs/blob/main/meme-search-grid-view-medium.webp" height="225">
@@ -42,6 +42,6 @@ use with newly enabled [customize hosts names and ports](https://github.com/neon
 
 See the [README.md](https://github.com/neonwatty/meme-search/blob/main/README.md) and [CHANGELOG.md](https://github.com/neonwatty/meme-search/blob/main/CHANGELOG.md) for further details on updates and bugfixes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODQ2MjA3MSwxNjEzNjM1MTIwLDE5Mj
-Y4OTA5MTZdfQ==
+eyJoaXN0b3J5IjpbNDI3NDgzNDA2LDE2MTM2MzUxMjAsMTkyNj
+g5MDkxNl19
 -->
