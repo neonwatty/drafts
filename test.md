@@ -1,24 +1,10 @@
 
+Image to text models currently available:  
+- [Moondream2](https://huggingface.co/vikhyatk/moondream2) - a 2 Billion parameter vision language model used for image captioning / extracting image text
 
+- [Florence-2-base](https://huggingface.co/microsoft/Florence-2-base) and [large](https://huggingface.co/microsoft/Florence-2-large) - a popular series of small vision language models built by Microsoft, including a 250 Million (base) and a 700 Million (large) parameter variant
 
-> Written with [StackEdit](https://stackedit.io/).The open source engine indexes your memes by their visual content and text, making them easily searchable. Drag and drop recovered memes into any messager.
-
-
-
-The open source engine indexes your memes by their visual content and text, making them easily searchable. Drag and drop recovered memes into any messager.  ([original post](https://www.reddit.com/r/selfhosted/comments/1e3x6l0/i_built_a_free_open_source_locally_hosted_search/) )
-
-Thanks to community feedback, we're excited to release a major update, featuring quality-of-life improvements, new image-to-text models, UX enhancements, and local build/test upgrades!   
-
-Some of these updates include:
-
-- 4 new [image to text new models](https://github.com/neonwatty/meme-search?tab=readme-ov-file#features---pro-version)  ranging in size from 200M to 2B parameters enabling much faster local processing on most machines
-- 10x reduction in Docker image size for app services
-- Easier custom setup of the for local NAS, Portainer, Unraid, etc., 
-use with newly enabled [customize hosts names and ports](https://github.com/neonwatty/meme-search/tree/main?tab=readme-ov-file#custom-hosts-and-ports) 
-- new model selection panel added in Settings allowing for choice of image-to-text model at will
-- new `grid view` added to both home and search pages for a broader view of your memes
-
-See the repo [CHANGELOG.md](https://github.com/neonwatty/meme-search/blob/main/CHANGELOG.md) for further details on updates and bugfixes!
+- [SmolVLM-256 and SmolVLM-500](https://huggingface.co/collections/HuggingFaceTB/smolvlm-256m-and-500m-6791fafc5bb0ab8acc960fb0) - new 256 and 500 Million parameter vision language models built by Hugging Face
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTY3NzEyMV19
+eyJoaXN0b3J5IjpbMzg3NTQ1MDA1LDIxMjE2NzcxMjFdfQ==
 -->
