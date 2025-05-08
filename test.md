@@ -6,11 +6,15 @@ Add a new button nicely stylized button to the body_composition_data show view. 
 
 When clicked a turbo confirm screen should pop up - with the message:
 
-"Body Composition History data is contained in the graph at the bottom of your scan.  It contains your history for a few key metrics like weight and bmi.  Scanning them is a great way to jump start your usage of MyBody scans if this is one of your first scans!"
+Chart at the bottom of your scan?  We can read that too—and jumpstart your tracking!
+
+The "OK" button should say "Scan it!"
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzODA5ODIxLC0yMDg4NzQ2NjEyLC0xMD
-E3NTA1ODAsMTA0NDM1NjE5Miw2NDU1NjQ0NSw5OTQ1MDE0MDAs
-LTEzMzE0NTQ0MzEsNTAwMDk1Mjc2LDE3NDcwNzMxMDQsNjk1OT
-U4NTQzLDk1NTYzMzQyNSw4MzUzODA5NjksMTU4MDMwOTY5Nywy
-MTIxNjc3MTIxXX0=
+eyJoaXN0b3J5IjpbOTk3Mjc2MjYxLDU5MzgwOTgyMSwtMjA4OD
+c0NjYxMiwtMTAxNzUwNTgwLDEwNDQzNTYxOTIsNjQ1NTY0NDUs
+OTk0NTAxNDAwLC0xMzMxNDU0NDMxLDUwMDA5NTI3NiwxNzQ3MD
+czMTA0LDY5NTk1ODU0Myw5NTU2MzM0MjUsODM1MzgwOTY5LDE1
+ODAzMDk2OTcsMjEyMTY3NzEyMV19
 -->
