@@ -15,22 +15,13 @@
 				"-y",
 				"@upstash/context7-mcp@latest"
 			]
-		},
-		"shadcn-ui": {
-			"type": "stdio",
-			"command": "npx",
-			"args": [
-				"-y",
-				"@jpisnice/shadcn-ui-mcp-server"
-			]
-		  }
-	}
+		}
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDQ2MjMzMywzNjc1MDYyMTcsOTk3Mj
-c2MjYxLDU5MzgwOTgyMSwtMjA4ODc0NjYxMiwtMTAxNzUwNTgw
-LDEwNDQzNTYxOTIsNjQ1NTY0NDUsOTk0NTAxNDAwLC0xMzMxND
-U0NDMxLDUwMDA5NTI3NiwxNzQ3MDczMTA0LDY5NTk1ODU0Myw5
-NTU2MzM0MjUsODM1MzgwOTY5LDE1ODAzMDk2OTcsMjEyMTY3Nz
-EyMV19
+eyJoaXN0b3J5IjpbNjc4NTc2MDQwLDM2NzUwNjIxNyw5OTcyNz
+YyNjEsNTkzODA5ODIxLC0yMDg4NzQ2NjEyLC0xMDE3NTA1ODAs
+MTA0NDM1NjE5Miw2NDU1NjQ0NSw5OTQ1MDE0MDAsLTEzMzE0NT
+Q0MzEsNTAwMDk1Mjc2LDE3NDcwNzMxMDQsNjk1OTU4NTQzLDk1
+NTYzMzQyNSw4MzUzODA5NjksMTU4MDMwOTY5NywyMTIxNjc3MT
+IxXX0=
 -->
